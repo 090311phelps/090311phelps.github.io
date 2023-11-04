@@ -1,0 +1,86 @@
+/* RESET RULE */
+
+.site-heading h1 {
+    font-family: 'Dekko', cursive;
+    font-size: 4rem;
+    text-align: center;
+
+}
+.site-heading{
+    background-color:#fbdadf;
+    color: #994857;
+    text-align: center;
+    padding: 4px 0;
+    
+}
+
+.site-heading nav{
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Salsa', cursive;
+    font-size: 2rem;
+
+}
+
+.site-heading a{
+    text-decoration: none;
+    color: #6e7dab;
+    
+}
+.button {
+    padding: 8px 16px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    background-color: #994857;
+    color: white;
+}
+
+.couple{
+    width: 30%;
+    display: inline-block;
+    
+}  
+.pic{
+    width: 40%;
+    display: inline-block;
+    
+}   
+
+.dog{
+    width: 23%;
+    display: inline-block;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Dekko', cursive;
+    font-size: 2.5rem;
+    color:#489399;
+}
+p{
+    font-size: 1rem;
+    font-family:'salsa', cursive;
+    color:#53272F;
+    text-align: center;
+}
+.image-travel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0;
+    flex-direction: row;
+
+}
+.image-content{
+    width: 300px;
+    margin: 16px;
+    
+}
+.picture-container{
+    padding: 8px;
+    border-radius: 8px;
+}    
